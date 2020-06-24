@@ -13,7 +13,7 @@ import org.bson.Document;
 
 public class AppMongoDBLoad {
 	
-    // Libs: /lib folder
+    // Libs: /lib folder or Maven project...
 	// https://mvnrepository.com/artifact/com.google.code.gson/gson/2.8.5
 	// https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver/3.8.2
 	// Tutorial: https://www.mongodb.com/blog/post/getting-started-with-mongodb-and-java-part-i
