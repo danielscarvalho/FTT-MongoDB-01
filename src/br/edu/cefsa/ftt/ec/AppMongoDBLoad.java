@@ -19,7 +19,7 @@ public class AppMongoDBLoad {
 	// Tutorial: https://www.mongodb.com/blog/post/getting-started-with-mongodb-and-java-part-i
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Desenvolver CRUD para o MongoDB
        System.out.println("App MongoDB");
        
        Random rand = new Random(); 
